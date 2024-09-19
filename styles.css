@@ -1,0 +1,29 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(130, 130, 230);
+    color: aliceblue;
+}
+
+.landing-page-title {
+    text-align: center;
+}
+
+.landing-page-hero-paragraph {
+
+    text-align: center;
+}
+
+.recipes-list {
+    list-style-type: none;
+    text-align: center;
+}
+
+.recipes-list a:visited {
+
+    color: rgb(35, 35, 243);
+}
+
+
+a {
+    text-align: center;
+}
