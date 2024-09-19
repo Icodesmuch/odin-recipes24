@@ -23,6 +23,10 @@
     color: rgb(35, 35, 243);
 }
 
+img {
+    height: auto;
+    width: 400px;
+}
 
 a {
     text-align: center;
